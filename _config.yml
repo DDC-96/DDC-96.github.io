@@ -21,10 +21,10 @@ author: Daniel Cruz
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Blogs:
     - Test 1: ""
     - Test 2: ""
-  Author's home: "https://ddc-96.github.io/aboutme/"
+  Resume: ""
 
 ################
 # --- Logo --- #
